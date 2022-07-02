@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+p {
+    color:  hotpink;
+    font-size: 25px;
+}
+
+h2 {
+    color: red;
+    font-size: 30px;
+}
+
+.one {
+    color:  green;
+    font-size: 30px;
+}
+
+.two {
+    color: aqua;
+    font-size: 25px;
+}
